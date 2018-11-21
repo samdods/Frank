@@ -8,14 +8,14 @@
 
 import Foundation
 
-get("/hello") {
+get("/home") {
     return """
         <html><head><style>
         body { background-color: #111 }
         h1 { font-size:4cm; text-align: center }
         </style></head>
           <body>
-            <h1>😎</h1>
+            <h1>🏠</h1>
           </body>
         </html>
         """
