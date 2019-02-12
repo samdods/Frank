@@ -26,7 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		EA13AEC0217798E700B2A458 /* TestServer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TestServer; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA13AEC0217798E700B2A458 /* Frank */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Frank; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA13AEC3217798E700B2A458 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		EAE90D2121A55D61006EE966 /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
 		EAE90D2421A577D9006EE966 /* HTTP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTP.swift; sourceTree = "<group>"; };
@@ -47,7 +47,7 @@
 		EA13AEB7217798E700B2A458 = {
 			isa = PBXGroup;
 			children = (
-				EA13AEC2217798E700B2A458 /* TestServer */,
+				EA13AEC2217798E700B2A458 /* Frank */,
 				EA13AEC1217798E700B2A458 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,19 +55,19 @@
 		EA13AEC1217798E700B2A458 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EA13AEC0217798E700B2A458 /* TestServer */,
+				EA13AEC0217798E700B2A458 /* Frank */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EA13AEC2217798E700B2A458 /* TestServer */ = {
+		EA13AEC2217798E700B2A458 /* Frank */ = {
 			isa = PBXGroup;
 			children = (
 				EA13AEC3217798E700B2A458 /* main.swift */,
 				EAE90D2821A57B78006EE966 /* Server */,
 				EAE90D2321A577C7006EE966 /* Private */,
 			);
-			path = TestServer;
+			path = Frank;
 			sourceTree = "<group>";
 		};
 		EAE90D2321A577C7006EE966 /* Private */ = {
@@ -90,9 +90,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EA13AEBF217798E700B2A458 /* TestServer */ = {
+		EA13AEBF217798E700B2A458 /* Frank */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EA13AEC7217798E700B2A458 /* Build configuration list for PBXNativeTarget "TestServer" */;
+			buildConfigurationList = EA13AEC7217798E700B2A458 /* Build configuration list for PBXNativeTarget "Frank" */;
 			buildPhases = (
 				EA13AEBC217798E700B2A458 /* Sources */,
 				EA13AEBD217798E700B2A458 /* Frameworks */,
@@ -102,9 +102,9 @@
 			);
 			dependencies = (
 			);
-			name = TestServer;
+			name = Frank;
 			productName = TestServer;
-			productReference = EA13AEC0217798E700B2A458 /* TestServer */;
+			productReference = EA13AEC0217798E700B2A458 /* Frank */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -122,7 +122,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EA13AEBB217798E700B2A458 /* Build configuration list for PBXProject "TestServer" */;
+			buildConfigurationList = EA13AEBB217798E700B2A458 /* Build configuration list for PBXProject "Frank" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -134,7 +134,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EA13AEBF217798E700B2A458 /* TestServer */,
+				EA13AEBF217798E700B2A458 /* Frank */,
 			);
 		};
 /* End PBXProject section */
@@ -290,7 +290,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EA13AEBB217798E700B2A458 /* Build configuration list for PBXProject "TestServer" */ = {
+		EA13AEBB217798E700B2A458 /* Build configuration list for PBXProject "Frank" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA13AEC5217798E700B2A458 /* Debug */,
@@ -299,7 +299,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EA13AEC7217798E700B2A458 /* Build configuration list for PBXNativeTarget "TestServer" */ = {
+		EA13AEC7217798E700B2A458 /* Build configuration list for PBXNativeTarget "Frank" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EA13AEC8217798E700B2A458 /* Debug */,
