@@ -12,7 +12,7 @@ Or just use [one](https://github.com/vapor/vapor) [of](https://github.com/amzn/s
 
 Setup endpoints like so:
 
-```
+```swift
 get("/home") {
     return "🏠"
 }
@@ -30,7 +30,7 @@ get("/people") {
 
 Then begin running like so:
 
-```
+```swift
 Frank.start()
 ```
 
