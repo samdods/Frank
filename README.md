@@ -1,6 +1,6 @@
 # Frank
 
-Proof of concept standalone Swift server loosely based on Ruby's [Sinatra](http://sinatrarb.com). It was used to demonstrate how a Swift server can be built from scratch without any dependencies. It could in theory be turned into a framework itself.
+Frank is a proof of concept, standalone Swift server demonstrating how a Swift server can be built from scratch without any dependencies. Its usage is loosely based on Ruby's [Sinatra](http://sinatrarb.com) framework and Frank could in theory be turned into a framework itself.
 
 It's very, very basic!
 
