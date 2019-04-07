@@ -8,7 +8,7 @@ An alternative for building a new server-side Swift framework is to build on top
 
 Or just use [one](https://github.com/vapor/vapor) [of](https://github.com/amzn/smoke-framework) [the](https://github.com/IBM-Swift/Kitura) [numerous](https://github.com/PerfectlySoft/Perfect) server-side Swift frameworks already gaining popularity.
 
-## Getting started?
+## Getting Started
 
 Setup endpoints like so:
 
